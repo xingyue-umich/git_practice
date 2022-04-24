@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 burger
 coffee
 noodles
-=======
 batman
 carol
 Tick, Tick…Boom!
->>>>>>> movies
